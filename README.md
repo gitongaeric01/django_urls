@@ -1,1 +1,1 @@
-# django_urls-
+# django_urls
